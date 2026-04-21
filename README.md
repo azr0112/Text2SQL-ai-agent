@@ -7,7 +7,7 @@ A proof-of-concept Text-to-SQL agent that uses an LLM to generate and execute My
 This repository contains a Jupyter notebook, `Text2SQL_Agent.ipynb`, which demonstrates:
 
 - provisioning a local MySQL database
-- loading the BIRD SQL dataset
+- loading the BIRD SQL dataset, Download from here https://drive.google.com/file/d/1nHezEJ-px69Di0Xzxnwwrpo2KyVaf4hO/view
 - building a tool-enabled Text2SQL agent persona
 - generating step-by-step plans and SQL queries with an LLM
 - listing tables, inspecting schemas, and executing read-only queries
